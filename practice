@@ -1,0 +1,5 @@
+numbers = [5,3,6,7,8,9]
+sum = 0 
+for val in numbers:
+  sum = sum + val
+  print('sum is', sum)
