@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ep111
+- 👋 Hi, I’m Elliott
 - 👀 I’m interested in all things business
 - 🌱 I’m currently learning Pyhon for data analysis
 - 💞️ I’m looking to get a grip on Python... did I mention I was new to this?
